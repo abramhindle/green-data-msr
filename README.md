@@ -44,12 +44,12 @@ The LICENSE for the Data is CC-BY 4.0 please attribute Abram Hindle using the fo
 
 To properly attribute Abram Hindle on as per the requirements of CC-BY 4.0, citation to the MSR Data Track paper or Abram Hindle's Green Mining paper are fine:
 
-@inproceedings{hindle2012green,
-  title={Green mining: A methodology of relating software change to power consumption},
-  author={Hindle, Abram},
-  booktitle={Mining Software Repositories (MSR), 2012 9th IEEE Working Conference on},
-  pages={78--87},
-  year={2012},
-  organization={IEEE}
-}
+    @inproceedings{hindle2012green,
+        title={Green mining: A methodology of relating software change to power consumption},
+        author={Hindle, Abram},
+        booktitle={Mining Software Repositories (MSR), 2012 9th IEEE Working Conference on},
+        pages={78--87},
+        year={2012},
+        organization={IEEE}
+    }
 
