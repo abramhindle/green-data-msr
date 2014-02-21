@@ -1,0 +1,2 @@
+DIR1	DIR2	ADD	REMOVE	Churn	TotalFiles	TouchedFiles	FileChurn	ChurnCount	LOC	ChurnLOC
+libtorrent-0.12.9	libtorrent-0.13.0	2614	1101	3715	263	214	0.813688212927757	214	57893	0.0641701069213895

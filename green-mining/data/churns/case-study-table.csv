@@ -1,0 +1,17 @@
+ Firefox Electrolysis "Idle Vuze" "Leech Vuze" Rtorrent
+Binaries 509 482 45 45 18
+Releases 43 9 3 3 18
+Versions 509 482 45 45 18
+"Lib/App Combinations" N/A N/A N/A N/A 40
+Tests 2131 1500 900 500 294
+Source Nightlies Nightlies Subversion Subversion Tarballs
+"Change in Power Consumption" Decrease Decrease Similar Decrease Similar
+Networked Yes Yes Yes Yes Yes
+"Remote Network" Yes Yes "Could use DHT" "Could use DHT" No
+"Stores Significant Configuration Information" Yes Yes Yes Yes No
+"Location of Configuration Changed Over Time" Yes Yes Yes Yes No
+"GUI Popups" Yes Yes Yes Yes No
+"Compiler Incompatibility" N/A N/A No No Yes
+"Build System Changed" N/A N/A Yes Yes No
+"External Library Dependencies Changed" N/A N/A "Could Have" "Could Have" Yes
+"Could Not Compile All Versions" N/A N/A Yes Yes Yes

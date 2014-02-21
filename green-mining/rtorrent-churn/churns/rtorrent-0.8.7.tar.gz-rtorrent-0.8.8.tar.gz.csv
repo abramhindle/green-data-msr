@@ -1,0 +1,2 @@
+DIR1	DIR2	ADD	REMOVE	Churn	TotalFiles	TouchedFiles	FileChurn	ChurnCount	LOC	ChurnLOC
+rtorrent-0.8.7	rtorrent-0.8.8	2964	1382	4346	215	58	0.269767441860465	58	43020	0.101022780102278
